@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bank_account_screen</string>
+    <string name="bill">Счета</string>
+    <string name="total">Итого</string>
+    <string name="total_summ">68 050 Р</string>
+    <string name="translation_story">История переводов</string>
+    <string name="create_transaction">Создать перевод</string>
+    <string name="main">Основной</string>
+</resources>
